@@ -1,0 +1,14 @@
+C:\Users\tu7bxfga8\source\repos\task123\task123\obj\Debug\netcoreapp3.1\task123.csproj.AssemblyReference.cache
+C:\Users\tu7bxfga8\source\repos\task123\task123\obj\Debug\netcoreapp3.1\task123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7bxfga8\source\repos\task123\task123\obj\Debug\netcoreapp3.1\task123.AssemblyInfoInputs.cache
+C:\Users\tu7bxfga8\source\repos\task123\task123\obj\Debug\netcoreapp3.1\task123.AssemblyInfo.cs
+C:\Users\tu7bxfga8\source\repos\task123\task123\obj\Debug\netcoreapp3.1\task123.csproj.CoreCompileInputs.cache
+C:\Users\tu7bxfga8\source\repos\task123\task123\bin\Debug\netcoreapp3.1\task123.exe
+C:\Users\tu7bxfga8\source\repos\task123\task123\bin\Debug\netcoreapp3.1\task123.deps.json
+C:\Users\tu7bxfga8\source\repos\task123\task123\bin\Debug\netcoreapp3.1\task123.runtimeconfig.json
+C:\Users\tu7bxfga8\source\repos\task123\task123\bin\Debug\netcoreapp3.1\task123.runtimeconfig.dev.json
+C:\Users\tu7bxfga8\source\repos\task123\task123\bin\Debug\netcoreapp3.1\task123.dll
+C:\Users\tu7bxfga8\source\repos\task123\task123\bin\Debug\netcoreapp3.1\task123.pdb
+C:\Users\tu7bxfga8\source\repos\task123\task123\obj\Debug\netcoreapp3.1\task123.dll
+C:\Users\tu7bxfga8\source\repos\task123\task123\obj\Debug\netcoreapp3.1\task123.pdb
+C:\Users\tu7bxfga8\source\repos\task123\task123\obj\Debug\netcoreapp3.1\task123.genruntimeconfig.cache
